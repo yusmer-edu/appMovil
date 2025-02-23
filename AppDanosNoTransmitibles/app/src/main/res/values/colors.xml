@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="morado_text">#330066</color>
+    <color name="azul_negro">#000033</color>
+    <color name="azul_claro">#0A0AEF</color>
+    <color name="transparente">#00000000</color>
+    <color name="colorLightStatusBar">#FDF8F6</color>  <!-- negro en modo claro -->
+    <color name="colorDarkStatusBar">#121212</color>   <!-- blamco en modo oscuro -->
+</resources>
