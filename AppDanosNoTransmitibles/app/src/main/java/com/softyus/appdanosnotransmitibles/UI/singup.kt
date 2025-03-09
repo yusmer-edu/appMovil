@@ -1,4 +1,4 @@
-package UI
+package com.softyus.appdanosnotransmitibles.UI
 
 import android.graphics.Color
 import android.os.Build

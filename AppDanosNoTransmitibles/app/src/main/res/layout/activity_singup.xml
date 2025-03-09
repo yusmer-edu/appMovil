@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     android:background="@drawable/log_main"
     android:padding="20dp"
-    tools:context="UI.singup">
+    tools:context=".UI.singup">
 
     <TextView
         android:id="@+id/textView2"

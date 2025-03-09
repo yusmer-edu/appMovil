@@ -13,16 +13,16 @@
         android:theme="@style/Theme.AppDanosNoTransmitibles"
         tools:targetApi="31">
         <activity
-            android:name="UI.singup"
+            android:name=".UI.singup"
             android:exported="false" />
         <activity
-            android:name="UI.Crud"
+            android:name=".UI.Crud"
             android:exported="false" />
         <activity
-            android:name="UI.Options"
+            android:name=".UI.Options"
             android:exported="false" />
         <activity
-            android:name="UI.Login"
+            android:name=".UI.Login"
             android:exported="false" />
         <activity
             android:name=".MainActivity"

@@ -12,6 +12,8 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowCompat
 import androidx.core.view.WindowInsetsCompat
+import com.softyus.appdanosnotransmitibles.UI.Login
+import com.softyus.appdanosnotransmitibles.UI.singup
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -53,13 +55,13 @@ class MainActivity : AppCompatActivity() {
 
     //función para llevar a login
     private fun funLogin(){
-        val intent = Intent(this, UI.Login::class.java)
+        val intent = Intent(this, Login::class.java)
         startActivity(intent)
     }
 
     //función para llevar a sing up
     private fun funSingUp(){
-        val intent = Intent(this, UI.singup::class.java)
+        val intent = Intent(this, singup::class.java)
         startActivity(intent)
     }
 }
