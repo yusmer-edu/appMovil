@@ -64,4 +64,5 @@ dependencies {
 
     // Corrutinas para Room
     implementation("androidx.room:room-ktx:$room_version")
+    implementation("androidx.lifecycle:lifecycle-viewmodel-ktx: $room_version")
 }
